@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\bin\Debug\net7.0\SingleInheritance.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\bin\Debug\net7.0\SingleInheritance.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\bin\Debug\net7.0\SingleInheritance.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\bin\Debug\net7.0\SingleInheritance.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\bin\Debug\net7.0\SingleInheritance.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\refint\SingleInheritance.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\SingleInheritance.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Inheritance\SingleInheritance\obj\Debug\net7.0\ref\SingleInheritance.dll

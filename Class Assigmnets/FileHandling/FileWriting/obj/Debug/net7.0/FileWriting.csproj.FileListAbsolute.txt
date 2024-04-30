@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\bin\Debug\net7.0\FileWriting.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\bin\Debug\net7.0\FileWriting.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\bin\Debug\net7.0\FileWriting.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\bin\Debug\net7.0\FileWriting.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\bin\Debug\net7.0\FileWriting.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\refint\FileWriting.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\FileWriting.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FileWriting\obj\Debug\net7.0\ref\FileWriting.dll

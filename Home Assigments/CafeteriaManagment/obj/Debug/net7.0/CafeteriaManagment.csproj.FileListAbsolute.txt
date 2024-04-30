@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\bin\Debug\net7.0\CafeteriaManagment.exe
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\bin\Debug\net7.0\CafeteriaManagment.deps.json
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\bin\Debug\net7.0\CafeteriaManagment.runtimeconfig.json
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\bin\Debug\net7.0\CafeteriaManagment.dll
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\bin\Debug\net7.0\CafeteriaManagment.pdb
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.dll
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\refint\CafeteriaManagment.dll
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.pdb
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\CafeteriaManagment.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Home Assigments\CafeteriaManagment\obj\Debug\net7.0\ref\CafeteriaManagment.dll

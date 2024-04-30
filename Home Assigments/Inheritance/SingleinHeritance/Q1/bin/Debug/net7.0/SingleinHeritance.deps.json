@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SingleinHeritance/1.0.0": {
+        "runtime": {
+          "SingleinHeritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingleinHeritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\bin\Debug\net7.0\CollegeDetails.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\bin\Debug\net7.0\CollegeDetails.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\bin\Debug\net7.0\CollegeDetails.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\refint\CollegeDetails.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\CollegeDetails\obj\Debug\net7.0\ref\CollegeDetails.dll

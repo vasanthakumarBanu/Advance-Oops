@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\bin\Debug\net7.0\FiletxtReadandWrite.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\bin\Debug\net7.0\FiletxtReadandWrite.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\bin\Debug\net7.0\FiletxtReadandWrite.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\bin\Debug\net7.0\FiletxtReadandWrite.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\bin\Debug\net7.0\FiletxtReadandWrite.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\refint\FiletxtReadandWrite.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\FiletxtReadandWrite.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FileHandling\FiletxtReadandWrite\obj\Debug\net7.0\ref\FiletxtReadandWrite.dll

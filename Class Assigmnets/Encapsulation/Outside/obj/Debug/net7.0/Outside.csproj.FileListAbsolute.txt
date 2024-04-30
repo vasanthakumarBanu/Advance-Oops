@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\bin\Debug\net7.0\Outside.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\bin\Debug\net7.0\Outside.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\bin\Debug\net7.0\Outside.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\bin\Debug\net7.0\Outside.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\bin\Debug\net7.0\Outside.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\refint\Outside.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\Outside.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\Encapsulation\Outside\obj\Debug\net7.0\ref\Outside.dll

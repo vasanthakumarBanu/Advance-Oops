@@ -1,0 +1,30 @@
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\refint\QwickFoodz.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\FoodDelivery\QwickFoodz\obj\Debug\net7.0\ref\QwickFoodz.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\bin\Debug\net7.0\QwickFoodz.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\refint\QwickFoodz.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\QwickFoodz.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\FoodDelivery\QwickFoodz\obj\Debug\net7.0\ref\QwickFoodz.dll

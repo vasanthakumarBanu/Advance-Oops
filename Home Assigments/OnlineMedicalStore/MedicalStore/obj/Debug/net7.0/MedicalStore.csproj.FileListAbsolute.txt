@@ -1,0 +1,15 @@
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\bin\Debug\net7.0\MedicalStore.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\bin\Debug\net7.0\MedicalStore.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\bin\Debug\net7.0\MedicalStore.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\bin\Debug\net7.0\MedicalStore.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\bin\Debug\net7.0\MedicalStore.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\refint\MedicalStore.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\MedicalStore.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\OnlineMedicalStore\MedicalStore\obj\Debug\net7.0\ref\MedicalStore.dll

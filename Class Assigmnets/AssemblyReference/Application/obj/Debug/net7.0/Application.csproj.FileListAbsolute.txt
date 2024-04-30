@@ -1,0 +1,5 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\AssemblyReference\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache

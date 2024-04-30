@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\bin\Debug\net7.0\List.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\bin\Debug\net7.0\List.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\bin\Debug\net7.0\List.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\bin\Debug\net7.0\List.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\bin\Debug\net7.0\List.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\refint\List.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\DataStructure\List\obj\Debug\net7.0\ref\List.dll

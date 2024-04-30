@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\bin\Debug\net7.0\Metromanagement.exe
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\bin\Debug\net7.0\Metromanagement.deps.json
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\bin\Debug\net7.0\Metromanagement.runtimeconfig.json
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\bin\Debug\net7.0\Metromanagement.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\bin\Debug\net7.0\Metromanagement.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\refint\Metromanagement.dll
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.pdb
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\Metromanagement.genruntimeconfig.cache
+D:\SyncFusion\Phase-III\Class Assigmnets\MetroManagment\Metromanagement\obj\Debug\net7.0\ref\Metromanagement.dll

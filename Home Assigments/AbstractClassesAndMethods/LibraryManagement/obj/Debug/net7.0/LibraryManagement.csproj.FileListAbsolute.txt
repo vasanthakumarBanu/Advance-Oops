@@ -1,0 +1,5 @@
+D:\SyncFusion\Phase-III\Home Assigments\AbstractClassesAndMethods\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase-III\Home Assigments\AbstractClassesAndMethods\LibraryManagement\obj\Debug\net7.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase-III\Home Assigments\AbstractClassesAndMethods\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase-III\Home Assigments\AbstractClassesAndMethods\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfo.cs
+D:\SyncFusion\Phase-III\Home Assigments\AbstractClassesAndMethods\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.CoreCompileInputs.cache
